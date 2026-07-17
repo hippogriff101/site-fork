@@ -262,7 +262,7 @@ export default function ArcadePageClient({
             <h1 className="arcade-logo-text">ARCADE</h1>
             <p className="arcade-title-copy">The summer is yours for the making</p>
             <p className="arcade-hero-note">
-              The Arcade closed September 1st, but you can still join the{" "}
+              The Arcade ended September 1st 2026, but you can still join the{" "}
               <a href="https://slack.hackclub.com" target="_blank" rel="noreferrer">
                 Hack Club Slack
               </a>
